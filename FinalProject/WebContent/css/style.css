@@ -1,0 +1,136 @@
+@charset "ISO-8859-1";
+
+body { 
+   background-color : white; 
+}
+
+.welcome{
+	text-align: center;
+	font-family: ""Palatino Linotype", "Book Antiqua", Palatino, serif;
+	font-style: normal;
+	font-weight: 100;
+	margin-bottom:25px;
+    margin-top:50px;
+}
+
+.logincard{
+	background-color: #FFFFFF;
+	margin: auto;
+	text-align: center;
+	max-width: 200px;
+	 padding: 1px 25px 30px;
+	 styles and shadows
+	 -moz-border-radius: 2px;
+    -webkit-border-radius: 2px;
+    border-radius: 2px;
+    -moz-box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+    -webkit-box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+    box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3); 
+}
+.question{
+	background-color: #FFFFFF;
+	margin: auto;
+	text-align: center;
+	max-width: 400px;
+	 padding: 1px 25px 30px;
+	 styles and shadows
+	 -moz-border-radius: 2px;
+    -webkit-border-radius: 2px;
+    border-radius: 2px;
+    -moz-box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+    -webkit-box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+    box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3); 
+}
+.registercard{
+	background-color: #FFFFFF;
+	margin: auto;
+	text-align: center;
+	
+}
+.logintext{
+	text-align:center;
+	font-family: ""Palatino Linotype", "Book Antiqua", Palatino, serif;
+	font-style:normal;
+	color: grey;
+	font-weight: 50;
+	font-size: 18px;
+}
+.buttonInput{
+	font-family: ""Palatino Linotype", "Book Antiqua", Palatino, serif;
+	font-style: italic;
+	text-align: center;
+	margin: auto;
+	width: 25%;
+    box-sizing: border-box;
+    font-size: 8px;
+}
+
+.pages{
+	background-color: white;
+	font-family: ""Palatino Linotype", "Book Antiqua", Palatino, serif;
+	margin: auto;
+	width: 100%;
+    box-sizing: border-box;
+    font-size: 14px;
+}
+
+.lessons{
+	background-color: white;
+	border: 1px solid black;
+    padding: 10px;
+    width: 200px;
+    height: 200px;
+    text-align: justify;
+}
+h1{
+	font-size:200%;
+	background-color: #ffffff;
+	margin: auto;
+	text-align: center;
+	max-width: 400px;
+	 padding: 1px 25px 30px;
+	 stylesandshadows
+	 -moz-border-radius: 2px;
+    -webkit-border-radius: 2px;
+    border-radius: 2px;
+    -moz-box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+    -webkit-box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+    box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3); 
+}
+h2{
+	text-align:center;
+	background-color: #ffffff;
+	font-size:150%;
+	position: absolute;
+    left: 0px;
+    width: 500px;
+    border: 3px solid #ffffff;
+    padding: 10px;
+}
+h3{
+	font-size:150%;
+	position: absolute;
+    left: 0px;
+    bottom:0px;
+    width: 300px;
+    border: 3px solid #73AD21;
+    padding: 10px;
+}
+h4{
+	font-size:150%;
+	position: absolute;
+    left: 0px;
+    bottom:0px;
+    width: 300px;
+    border: 3px solid #ff0000;
+    padding: 10px;
+}
+.image{
+	position:absolute;
+  	width:300px;
+  	height:300px;
+  	background:#063;
+ 	 bottom:0px;
+ 	 right:25%;
+}
+}
